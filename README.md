@@ -1,4 +1,5 @@
-![alt text](https://github.com/thotranhuu99/Loadcell/blob/master/Loadcell.jpg?raw=true)
+Final board  
+![alt text](https://github.com/thotranhuu99/Loadcell/blob/master/Loadcell.jpg?raw=true)  
 Schematic:
 ![alt text](https://github.com/thotranhuu99/Loadcell/blob/master/Schematic.jpg?raw=true)
 The project includes the .ioc file for CubeMX, after generate code for KEIL don't forget to replace the main.c with the corresponding file in git branch.
