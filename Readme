@@ -2,4 +2,4 @@ The project includes the .ioc file for CubeMX, after generate code for KEIL don'
 Place i2c.c in the same folder with main.c
 Compile and the generate hex file for using with STM32F103C8T6
 Note: The main.c only included nessesary functions for reading ADC in DMA mode, calculate the offset and display in LCD. 
-You should be able to use these functions at your will
+You should be able to use these functions at your will.
